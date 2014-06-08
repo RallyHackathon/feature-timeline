@@ -1,6 +1,10 @@
 Feature Timeline Chart
 =========================
 
+## Video
+
+http://www.screencast.com/t/n3V2gaMpzQV
+
 ## Overview
 
 We have implemented a Feature Timeline Chart using the AppSDK which plots a feature's start and end date (shown in yellow) and the releases associated with the Users Stories from that feature.
